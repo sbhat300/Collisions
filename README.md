@@ -1,9 +1,9 @@
 A 2D collision detection library.
 
-Is able to detect collisions and generate contact points between any two convex polygons including rotation, a polygon and a ray, and a point.
+Able to detect collisions and generate contact points between any two convex polygons (including rotation), a polygon and a ray, and a point.
 
-Uses a spatial hash grid to make collisions detection fast.
+Uses a spatial hash grid to optimize collisions detection.
 
-Colliders, rays, and the spatial hash grid can be easily customized.
+Colliders, rays, the spatial hash grid, and everything else can be easily customized.
 
 Included is a demo showing polygon-polygon collisions and a ray.
